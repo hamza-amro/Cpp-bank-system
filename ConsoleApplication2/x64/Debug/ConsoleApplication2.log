@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.cpp
+F:\07 Algorithms & Problem-Solving Level 3\project #1 bank\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(25,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\07 Algorithms & Problem-Solving Level 3\project #1 bank\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(288,1): warning C4715: 'updateClientDataByAccountNumber': not all control paths return a value
+F:\07 Algorithms & Problem-Solving Level 3\project #1 bank\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(262,1): warning C4715: 'deleteClientByAccountNumber': not all control paths return a value
+  ConsoleApplication2.vcxproj -> F:\07 Algorithms & Problem-Solving Level 3\project #1 bank\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
